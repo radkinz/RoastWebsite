@@ -1174,6 +1174,12 @@ section,
   .venue .venue-info h3 {
     font-size: 24px;
   }
+
+  .donate-button {
+    font-size: 14px;
+    padding: 20px 60px;
+  }
+
 }
 
 .venue .venue-info p {
